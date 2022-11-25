@@ -5,7 +5,7 @@ A basic platformer coded in Unity that utilizes PureData for live audio synthesi
 
  - The player's elevation changes the pitch of the game audio
 
- - As more coins are collected, the game music becomes more randomized and chaotic
+ - As more worms are eaten, the game music becomes more randomized and chaotic
  
  - Music is auto-generated based on *JS Bach Well Tempered Clavier, No. 1 Prelude* fed through a markov chain
  
